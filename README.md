@@ -16,3 +16,6 @@ This project focuses on developing deep learning solutions for multi-class image
 3. Class Imbalance Solutions: Apply data augmentation techniques to increase the number of samples from the minority class.
 4. Explainability: Use tools like Grad-CAM or saliency maps to visualize which parts of the image the model focuses on during decision-making.
 5. Performance Metrics: Evaluate the model with accuracy, F1-score, confusion matrices, and plot loss/accuracy over epochs.
+
+## Dataset-
+1. [Animal-10 Dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10 )
