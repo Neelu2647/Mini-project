@@ -11,28 +11,33 @@ This project focuses on developing deep learning solutions for multi-class image
 ##### 22053171
 
 ## Features
-1. Image Preprocessing: Resize, crop, normalize pixel values, and handle color channels.
-2. Model Development: Build CNNs from scratch or use pre-trained models like ResNet or VGG. Consider using ensemble methods 
-   to improve accuracy.
-3. Class Imbalance Solutions: Apply data augmentation techniques to increase the number of samples from the minority class.
-4. Explainability: Use tools like Grad-CAM or saliency maps to visualize which parts of the image the model focuses on 
+1. **Image Preprocessing:** Resize, crop, normalize pixel values, and handle color channels.
+2. **Model Development:** Build CNNs from scratch or use pre-trained models like ResNet or VGG. Consider using ensemble 
+   methods to improve accuracy.
+3. **Class Imbalance Solutions:** Apply data augmentation techniques to increase the number of samples from the minority 
+   class.
+4. **Explainability:** Use tools like Grad-CAM or saliency maps to visualize which parts of the image the model focuses on 
    during decision-making.
-5. Performance Metrics: Evaluate the model with accuracy, F1-score, confusion matrices, and plot loss/accuracy over epochs.
+5. **Performance Metrics:** Evaluate the model with accuracy, F1-score, confusion matrices, and plot loss/accuracy over epochs.
 
 ## Datasets
-##### 1. Animal-10 Dataset
-##### Dataset: [Animal-10 Dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10 )
-##### Goal: Classify images of various animal species.
+1. **Animal-10 Dataset**
+   
+   Dataset: [Animal-10 Dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10 )
+   Goal: Classify images of various animal species.
 
-##### 2. German Traffic Sign Recognition Benchmark (GTSRB) Dataset
-##### Dataset: [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/)
-##### Goal: Correctly identify traffic signs, a classic computer vision challenge
+2. **German Traffic Sign Recognition Benchmark (GTSRB) Dataset**
+   
+Dataset: [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/)
+Goal: Correctly identify traffic signs, a classic computer vision challenge
 
-##### 3. Chest X-Ray Images (Pneumonia) Dataset
-##### Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
-##### Goal: Distinguish healthy lung X-rays from pneumonia cases.
+3. **Chest X-Ray Images (Pneumonia) Dataset**
+   
+   Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+   Goal: Distinguish healthy lung X-rays from pneumonia cases.
 
-##### 4. Plant Village Dataset Dataset
-##### Dataset: [Plant Village Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
-##### Goal: Identify diseases across various plant leaf images.
+4. **Plant Village Dataset Dataset**
+   
+Dataset: [Plant Village Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
+Goal: Identify diseases across various plant leaf images.
 
