@@ -18,4 +18,19 @@ This project focuses on developing deep learning solutions for multi-class image
 5. Performance Metrics: Evaluate the model with accuracy, F1-score, confusion matrices, and plot loss/accuracy over epochs.
 
 ## Dataset-
-1. [Animal-10 Dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10 )
+1.Animal-10 Dataset
+-Dataset-[Animal-10 Dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10 )
+Goal: Classify images of various animal species.
+
+2.German Traffic Sign Recognition Benchmark (GTSRB) Dataset
+-Dataset-[German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/)
+Goal: Correctly identify traffic signs, a classic computer vision challenge
+
+3.Chest X-Ray Images (Pneumonia) Dataset
+-Dataset-[Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+Goal: Distinguish healthy lung X-rays from pneumonia cases.
+
+4.Plant Village Dataset Dataset
+-Dataset-[Plant Village Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
+Goal: Identify diseases across various plant leaf images.
+
