@@ -28,7 +28,7 @@ This project focuses on developing deep learning solutions for multi-class image
 
 2. **German Traffic Sign Recognition Benchmark (GTSRB) Dataset**
     
-   Dataset: [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/)  
+   Dataset: [German Traffic Sign Recognition Benchmark (GTSRB)](https://www.kaggle.com/datasets/safabouguezzi/german-traffic-sign-detection-benchmark-gtsdb)  
    Goal: Correctly identify traffic signs, a classic computer vision challenge. 
 
 3. **Chest X-Ray Images (Pneumonia) Dataset**
