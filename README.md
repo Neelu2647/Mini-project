@@ -4,11 +4,15 @@
 This project focuses on developing deep learning solutions for multi-class image classification tasks, with an emphasis on improving both performance and interpretability. To enhance model transparency, techniques such as Grad-CAM, saliency maps, and attention mechanisms are utilized to visualize and understand predictions. Additionally, to address potential class imbalance, data augmentation methods (e.g., rotation, flipping, and color jittering) are employed alongside resampling strategies like oversampling minority classes or undersampling majority classes. By integrating these approaches, the goal is to create robust and interpretable models that provide reliable predictions while offering deeper insights into their decision-making processes.
 
 ## Team Members
-##### 2205746
-##### 22052641
-##### 22052647
-##### 22052657
-##### 22053171
+2205746
+
+22052641
+
+22052647
+
+22052657
+
+22053171
 
 ## Features
 1. **Image Preprocessing:** Resize, crop, normalize pixel values, and handle color channels.
@@ -23,9 +27,9 @@ This project focuses on developing deep learning solutions for multi-class image
 ## Datasets
 1. **Animal-10 Dataset**
    
-   Dataset: [Animal-10 Dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10 )
+Dataset: [Animal-10 Dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10 )
    
-   Goal: Classify images of various animal species.
+Goal: Classify images of various animal species.
 
 3. **German Traffic Sign Recognition Benchmark (GTSRB) Dataset**
    
@@ -35,9 +39,9 @@ Goal: Correctly identify traffic signs, a classic computer vision challenge
 
 3. **Chest X-Ray Images (Pneumonia) Dataset**
    
-   Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
    
-   Goal: Distinguish healthy lung X-rays from pneumonia cases.
+Goal: Distinguish healthy lung X-rays from pneumonia cases.
 
 5. **Plant Village Dataset Dataset**
    
