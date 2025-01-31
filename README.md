@@ -1,7 +1,7 @@
 # IMAGE CLASSIFICATION & EXPLAINABLE VISION 
 
 ##  Objective
-This project develops deep learning solutions for multi-class image classification, focusing on interpretability and class imbalance. Techniques like Grad-CAM and saliency maps enhance transparency, while data augmentation and resampling improve class distribution. The goal is to build robust, interpretable models with reliable predictions.
+This project focuses on developing deep learning solutions for multi-class image classification tasks, with an emphasis on improving both performance and interpretability. To enhance model transparency, techniques such as Grad-CAM, saliency maps, and attention mechanisms are utilized to visualize and understand predictions. Additionally, to address potential class imbalance, data augmentation methods (e.g., rotation, flipping, and color jittering) are employed alongside resampling strategies like oversampling minority classes or undersampling majority classes. By integrating these approaches, the goal is to create robust and interpretable models that provide reliable predictions while offering deeper insights into their decision-making processes.
 
 ## Team Members
 22052657
