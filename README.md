@@ -4,14 +4,10 @@
 This project focuses on developing deep learning solutions for multi-class image classification tasks, with an emphasis on improving both performance and interpretability. To enhance model transparency, techniques such as Grad-CAM, saliency maps, and attention mechanisms are utilized to visualize and understand predictions. Additionally, to address potential class imbalance, data augmentation methods (e.g., rotation, flipping, and color jittering) are employed alongside resampling strategies like oversampling minority classes or undersampling majority classes. By integrating these approaches, the goal is to create robust and interpretable models that provide reliable predictions while offering deeper insights into their decision-making processes.
 
 ## Team Members
-2205746
-
-22052641
-
-22052647
-
-22052657
-
+2205746  
+22052641  
+22052647  
+22052657  
 22053171
 
 ## Features
@@ -27,25 +23,22 @@ This project focuses on developing deep learning solutions for multi-class image
 ## Datasets
 1. **Animal-10 Dataset**
    
-Dataset: [Animal-10 Dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10 )
-   
-Goal: Classify images of various animal species.
+   Dataset: [Animal-10 Dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10 )  
+   Goal: Classify images of various animal species. 
 
-3. **German Traffic Sign Recognition Benchmark (GTSRB) Dataset**
-   
-Dataset: [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/)
-
-Goal: Correctly identify traffic signs, a classic computer vision challenge
+2. **German Traffic Sign Recognition Benchmark (GTSRB) Dataset**
+    
+   Dataset: [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/)  
+   Goal: Correctly identify traffic signs, a classic computer vision challenge. 
 
 3. **Chest X-Ray Images (Pneumonia) Dataset**
    
-Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
-   
-Goal: Distinguish healthy lung X-rays from pneumonia cases.
+   Dataset: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)  
+   Goal: Distinguish healthy lung X-rays from pneumonia cases.   
 
-5. **Plant Village Dataset Dataset**
+4. **Plant Village Dataset Dataset**
    
-Dataset: [Plant Village Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
+   Dataset: [Plant Village Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)  
+   Goal: Identify diseases across various plant leaf images.  
 
-Goal: Identify diseases across various plant leaf images.
 
